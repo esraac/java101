@@ -5,3 +5,4 @@
 ## ödev4= taksimetreUcretiHesaplayanProgram
 ## ödev5= daireDilimininAlanınıHesaplayanProgram
 ## ödev6= vucutKitleEndeksiHesaplayanProgram
+## ödev7= manavProgramı
