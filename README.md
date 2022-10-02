@@ -4,3 +4,4 @@
 ## ödev3= ucgendeAlanHesaplamaProgramı
 ## ödev4= taksimetreUcretiHesaplayanProgram
 ## ödev5= daireDilimininAlanınıHesaplayanProgram
+## ödev6= vucutKitleEndeksiHesaplayanProgram
