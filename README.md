@@ -1,4 +1,4 @@
-# Patika.dev-Java101
+# java101
 ## 1= ortalamaHesaplamaProgramı
 ## 2= kdvHesaplamaProgramı
 ## 3= ucgendeAlanHesaplamaProgramı
